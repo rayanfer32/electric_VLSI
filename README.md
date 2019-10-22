@@ -2,7 +2,7 @@
 
 # DOWNLOAD THESE FILES AND INSTALL:
 ## LTSPICE :
-http://ltspice.analog.com/software/LTspiceXVII.exe
+http://ltspice.analog.com/software/LTspiceVI.exe
 ## Java runtime environment:
 https://www.java.com/en/download/manual.jsp
 ## electric software binary:
