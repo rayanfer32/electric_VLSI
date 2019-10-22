@@ -16,6 +16,8 @@ C:\Program Files\LTC\LTspiceIV\scad3.exe or F:\Program Files (x86)\LTC\LTspiceIV
 and copy it to run program feild shown in the above image.
 #### run program: 
 F:\Program Files\LTC\LTspiceIV\scad3.exe (older)
+      or 
+      
 C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe (new)
 
 #### with args:
