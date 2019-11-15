@@ -12,7 +12,8 @@ https://ftp.gnu.org/pub/gnu/electric/electricBinary-9.07.jar
 ![spice_settings](/settings.png)
 
 #### locate the scad3.exe from the installed directory and copy that address for eg: 
-```C:\Program Files\LTC\LTspiceIV\scad3.exe 
+```
+C:\Program Files\LTC\LTspiceIV\scad3.exe 
                   or
 F:\Program Files (x86)\LTC\LTspiceIV\scad3.exe
 ```
