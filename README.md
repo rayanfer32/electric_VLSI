@@ -2,7 +2,7 @@
 
 # DOWNLOAD THESE FILES AND INSTALL:
 ## LTSPICE (download old version):
-http://ltspice.analog.com/software/LTspiceVI.exe
+http://ltspice.analog.com/software/LTspiceIV.exe
 ## Java runtime environment:
 https://www.java.com/en/download/manual.jsp
 ## electric software binary:
@@ -23,9 +23,6 @@ and copy it to run program feild shown in the above image.
 #### run program (depends on where you installed): 
 ```
 F:\Program Files\LTC\LTspiceIV\scad3.exe (older)
-      or 
-    
-C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe (new)
 ```
 #### with args:
 ```
